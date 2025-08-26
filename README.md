@@ -2,7 +2,7 @@
 <h3 align="center">🤖 Curious 3rd year engineering student diving into the endless possibilities of technology</h3>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shreya-agarwal-2035642a0/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya agarwal" height="30" width="40" />
@@ -14,7 +14,7 @@
 </a>
 </p>
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
